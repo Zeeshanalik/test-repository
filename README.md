@@ -1,4 +1,4 @@
-[![Datum Brain](https://drive.google.com/drive/my-drive)](https://datumbrain.com)
+[![Datum Brain](logo.png)](https://datumbrain.com)
 # Datum Brain                                                  
 ### Introduction
 Datum Brain is a cutting edge endeavor that specifically caters to the latest technologies. We have centered our skills and done extensive work in the following three discipline
@@ -14,8 +14,16 @@ Check files status in git:
 ```
 Commit in git:
 ```sh
-	git commit –m “type your commit here”
+	git commit ï¿½m ï¿½type your commit hereï¿½
 
 ```
 ### Why Choose datum Brain?
 Years of experience in Scala and Golang, enable us to provide cutting-edge solutions.We can work on extracting the **ideal solution** and deliver it in a **robust and extremely user-friendly way**. You are surely in for a surprise!
+ ### Some USeful Links:
+ - [AngularJS](angularjs.org
+) - HTML enhanced for web apps!
+- [node.js](nodejs.org
+) - evented I/O for the backend
+### Contact US
+Visit our Website: [Datum Brain](https://datumbrain.com/)
+
