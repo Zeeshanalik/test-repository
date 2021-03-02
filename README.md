@@ -1,10 +1,21 @@
-
-Datum Brain
-This document is about how should we represent data in a Readme file. It must contain a picture, picture, hypertexts and tables. I have put the logo on the top right corner of the page.
-A link to my github profile is also attached https://github.com/Zeeshanalik/test-repository.git.
-Below this are some snippets of code from github:
-	
+[![Datum Brain](https://drive.google.com/drive/my-drive)](https://datumbrain.com)
+# Datum Brain                                                  
+### Introduction
+Datum Brain is a cutting edge endeavor that specifically caters to the latest technologies. We have centered our skills and done extensive work in the following three discipline
+- Big data
+- Data Engineering
+- Custom Software Development
+### Tech Stack
+Our extensive research and development along with hands on experience on the **latests innovations** grants you a solution that is perfectly fit for your use case.
+### Code Snipets
+Check files status in git:
+```sh
 	git status
+```
+Commit in git:
+```sh
 	git commit –m “type your commit here”
 
-
+```
+### Why Choose datum Brain?
+Years of experience in Scala and Golang, enable us to provide cutting-edge solutions.We can work on extracting the **ideal solution** and deliver it in a **robust and extremely user-friendly way**. You are surely in for a surprise!
